@@ -1,0 +1,9 @@
+/*
+
+!Vagrantfile
+!README.md
+!.gitignore
+
+!/public
+/public/*
+!/public/user/*
