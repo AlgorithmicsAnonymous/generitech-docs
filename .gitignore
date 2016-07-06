@@ -7,3 +7,10 @@
 !/public
 /public/*
 !/public/user/*
+/public/user/config/security.yaml
+/public/user/data/*
+!/public/user/data/.*
+/public/user/plugins/*
+!/public/user/plugins/.*
+/public/user/themes/learn2
+/public/user/localhost/config/security.yaml
