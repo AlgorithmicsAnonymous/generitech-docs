@@ -9,7 +9,7 @@
 3. Open the repository in Terminal/Command Prompt
 4. Run `vagrant up`
 5. Ssh into the virtual machine. IP: `127.0.0.1` Port: `2222` Username: `vagrant` Password: `vagrant`
-6. Navigate to the web root `cd /var/www`
+6. Navigate to the web root `cd /var/www/public`
 7. Install Grav `./bin/grav install`
 
 ## Developing
