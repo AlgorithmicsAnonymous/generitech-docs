@@ -14,4 +14,5 @@
 /public/user/plugins/*
 !/public/user/plugins/.*
 /public/user/themes/learn2
+/public/user/themes/learn3/.sass-cache
 /public/user/localhost/config/security.yaml
